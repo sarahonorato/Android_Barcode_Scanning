@@ -1,6 +1,6 @@
 # Android Barcode Scanning App
 Xamarin.Android Application for smartphones that can scan any type of barcode.
-I am using in this sample <a href="https://components.xamarin.com/view/zxing.net.mobile" target="_blank">ZXing</a> ("zebra crossing") library for Android, to read the barcode and return the result.
+I am using <a href="https://components.xamarin.com/view/zxing.net.mobile" target="_blank">ZXing</a> ("zebra crossing") library for Android, to read the barcode and return the result.
 
 # Requirements
 <ul>
