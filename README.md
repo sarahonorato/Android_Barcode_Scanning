@@ -15,6 +15,4 @@ I am using in this sample <a href="https://components.xamarin.com/view/zxing.net
 # Download APK
 Click <a href="http://sarahonorato.com.br/imgGit/APK_barcode.zip">here</a> to download!
 
-# Example of using ZXing
-<img src="http://sarahonorato.com.br/imgGit/code_barcode.png" alt="Barcode" height="400"/>
 
