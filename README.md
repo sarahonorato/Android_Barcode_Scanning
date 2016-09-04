@@ -13,4 +13,4 @@ I am using in this sample <a href="https://components.xamarin.com/view/zxing.net
 <img src="http://sarahonorato.com.br/imgGit/barcode03.png" alt="Barcode" height="400">
 
 # Download APK
-Click <a src="http://sarahonorato.com.br/imgGit/APK.zip">here</a> to download!
+Click <a href="http://sarahonorato.com.br/imgGit/APK.zip">here</a> to download!
