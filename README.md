@@ -6,3 +6,8 @@ I am using in this sample <a href="https://components.xamarin.com/view/zxing.net
 <ul>
 <li>Supports Android 4.0 or greater.</li>
 </ul>
+
+# Result
+<img src="http://sarahonorato.com.br/imgGit/barcode01.png" alt="Barcode">
+<img src="http://sarahonorato.com.br/imgGit/barcode02.png" alt="Barcode">
+<img src="http://sarahonorato.com.br/imgGit/barcode03.png" alt="Barcode">
