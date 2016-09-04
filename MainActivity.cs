@@ -9,7 +9,7 @@ using ZXing.Mobile;
 
 namespace CodigoBarra
 {
-    [Activity(Label = "Barcode Sample", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Barcode Scanner", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)

@@ -16,9 +16,8 @@ public final class R {
     }
     public static final class id {
         public static final int btnCodigo=0x7f050001;
-        public static final int contentFrame=0x7f050007;
+        public static final int contentFrame=0x7f050006;
         public static final int lblCodigo=0x7f050003;
-        public static final int lblRodape=0x7f050006;
         public static final int pnlCodigo=0x7f050002;
         public static final int pnlFooter=0x7f050005;
         public static final int pnlGradient=0x7f050000;
