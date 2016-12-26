@@ -8,11 +8,11 @@ I am using <a href="https://components.xamarin.com/view/zxing.net.mobile" target
 </ul>
 
 # Result
-<img src="http://sarahonorato.com.br/imgGit/barcode01.png" alt="Barcode" height="400" />
-<img src="http://sarahonorato.com.br/imgGit/barcode02.png" alt="Barcode" height="400" />
-<img src="http://sarahonorato.com.br/imgGit/barcode03.png" alt="Barcode" height="400" />
+<img src="http://sarahonorato.com/imgGit/barcode01.png" alt="Barcode" height="400" />
+<img src="http://sarahonorato.com/imgGit/barcode02.png" alt="Barcode" height="400" />
+<img src="http://sarahonorato.com/imgGit/barcode03.png" alt="Barcode" height="400" />
 
 # Download APK
-Click <a href="http://sarahonorato.com.br/imgGit/APK_barcode.zip">here</a> to download!
+Click <a href="http://sarahonorato.com/imgGit/APK_barcode.zip">here</a> to download!
 
 
